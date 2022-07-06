@@ -53,7 +53,9 @@ function UserSetting({gender,changeGender,myStyle,changeStyle,startTime,endTime,
                 <SetTime minVal={minVal} maxVal={maxVal} startTime={startTime} endTime={endTime} min={0} max={24}/>
             </div>
             <div className='footer-button'>
-                <footer>
+                <footer onClick={ () => {
+                  navigate(-1)
+                }} onKeyDown={goBackPage}>
                     <div>Done</div>
                 </footer>
             </div>
