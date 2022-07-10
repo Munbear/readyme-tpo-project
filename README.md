@@ -8,7 +8,26 @@
 - 쇼핑몰 홈 및 상품 추천 및 큐레이션 페이지
 - 날씨 관련 공공 OpenAPI 활용
 
-|성별 선택|스타일 선택|시간 선택|
-||---|---|
-|이미지1|이미지2|이미지3|
-|설명1|설명2|설명3|
+|Set gender|Set styles|Set Time|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/54834533/178138393-3ecfd22f-e8b7-46cc-9ee0-a4dad2e40caa.gif" width="200" height="300"/>|<img src="https://user-images.githubusercontent.com/54834533/178138434-093a58c5-3f0e-4df9-af5b-07bd36094165.gif" width="200" height="300" />|<img src="https://user-images.githubusercontent.com/54834533/178138436-da8a8a3d-1807-4202-8253-eebee0f6533a.gif" width="200" height="300" />|
+|select |multi select button|Multi-slider-range|
+
+|Home|More Content|Setting|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/54834533/178138818-92ab2ef5-c304-4c4e-bc6f-180f4b72acd1.gif" width=200 height="300" />|<img src="https://user-images.githubusercontent.com/54834533/178138825-a8bae1f5-85b5-4196-bdfa-3cd2db42d08f.gif" width=200 height="300" />|<img src="https://user-images.githubusercontent.com/54834533/178138831-a29eff70-eff5-4d11-976c-d3d701c0b283.gif" width=200 height="300" />|
+
+|mobile view|
+|:---:|
+|<video src="https://user-images.githubusercontent.com/54834533/178139051-a17cdf78-6944-4d39-846f-52f5024ca1b6.mp4"/>|
+ 
+
+
+
+
+
+
+
+
+
+
